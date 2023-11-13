@@ -1,4 +1,4 @@
-package com.java.novice;
+package com.java.novice.ServiceRegistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
